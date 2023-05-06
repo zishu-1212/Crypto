@@ -1,0 +1,25 @@
+.nav-item .nav-link {
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    color: #5C3F93 !important;
+}
+.nav-item .nav-link:hover{
+    
+    color: #FFAE02 !important;
+}
+.button_connect
+{
+    background: #5C3F93 !important;
+border-radius: 10px !important;
+width: 181px !important;
+height: 63px !important;
+border: none !important;
+color: white !important;
+font-weight: 400;
+font-size: 20px;
+}
+.button_connect:hover
+{
+    background:  #FFAE02 !important;
+    transition: 1s !important;
+}

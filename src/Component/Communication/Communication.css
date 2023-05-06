@@ -1,0 +1,31 @@
+.table_color{
+    background-color: rgba(172, 0, 165, 0.42)  !important;
+}
+.card_backs{
+    background: rgba(172, 0, 165, 0.42);
+    border: 1px solid rgba(255, 174, 2, 0.1);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    width: 100% !important;
+}
+.hover_table{
+    width: 100% !important;
+}
+@media only screen and (max-width: 600px){
+    .card_backs{
+        overflow-x: scroll !important;
+    }
+    .hoverss{
+        width: 200% !important;
+    }
+}
+.title_table{
+  
+    font-weight: 700;
+    font-size:40px;
+    line-height: 96px;
+    /* identical to box height */
+    
+    
+    color: #FFAE02;
+}
